@@ -1,10 +1,5 @@
 ### Hi there, I'am Alexandre. 👋
 
-<!--
-**alexandreponte1/alexandreponte1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on new stuffs.
 - 🌱 I’m currently learning terraform, python, Devops, cloud and some other things.
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:[linkedin](https://www.linkedin.com/in/alexandre-soares-ponte-08262624/), or [twitter](https://twitter.com/asponte1)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
